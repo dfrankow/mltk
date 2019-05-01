@@ -1,0 +1,4 @@
+x: cont
+y: cont
+z: cont
+label: cont (target)
